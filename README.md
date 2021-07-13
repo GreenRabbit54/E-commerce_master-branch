@@ -1,3 +1,2 @@
-# thesis
-SDU
-main code r in master branch
+E-commerce online shop 
+To run
